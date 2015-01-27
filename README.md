@@ -2,6 +2,11 @@
 Biometric Employee Time Attendance
 
 =====
+Tutorials - Click Title for Video Tutorials
+-----
+1. [Setting Up Database Server](https://drive.google.com/file/d/0B3AL8cDST3MXdmZyUUh3WmJtQzA/view?usp=sharing)
+
+=====
 System Requirements:
 -----
 Operating System Application: Windows 7 above
