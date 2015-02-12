@@ -4,7 +4,18 @@ Biometric Employee Time Attendance
 =====
 Tutorials - Click Title for Video Tutorials
 -----
-1. [Setting Up Database Server](https://drive.google.com/file/d/0B3AL8cDST3MXdmZyUUh3WmJtQzA/view?usp=sharing)
+1. [Installing Mysql Server](https://drive.google.com/file/d/0B3AL8cDST3MXRVhQR29PMGRSZ1U/view?usp=sharing) 
+    Required for Server *
+2. [Installing Device Driver](https://drive.google.com/file/d/0B3AL8cDST3MXN3pUWkZTZDRXRXM/view?usp=sharing)
+    Required for Server * Optional for Client
+3. [Setting Up Database Server](https://drive.google.com/file/d/0B3AL8cDST3MXdmZyUUh3WmJtQzA/view?usp=sharing)
+    Required for Server *
+4. [Installing BeTA Application](https://drive.google.com/file/d/0B3AL8cDST3MXaUl4cmNTcmRvVFU/view?usp=sharing)
+    Required All *
+5. [Adding Profile Image Employee -> Just Drag The Image Inside The Image Box]()
+    No Video *
+
+
 
 =====
 System Requirements:
