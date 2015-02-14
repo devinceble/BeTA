@@ -4,6 +4,8 @@ Biometric Employee Time Attendance
 =====
 Tutorials - Click Title for Video Tutorials
 -----
+[Microsoft Visual C++ 2010 Redistributable Package](http://www.microsoft.com/en-ph/search/Results.aspx?q=Microsoft%20Visual%20C%2B%2B%202010%20Redistributable%20Package&form=DLC)
+
 1. [Installing Mysql Server](https://drive.google.com/file/d/0B3AL8cDST3MXRVhQR29PMGRSZ1U/view?usp=sharing) 
     Required for Server *
 2. [Installing Device Driver](https://drive.google.com/file/d/0B3AL8cDST3MXN3pUWkZTZDRXRXM/view?usp=sharing)
